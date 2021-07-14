@@ -6,9 +6,9 @@ The Voice Assistant project is developed using Python.
 
 Team members:
 
-Dharun.R
-
 Ananth.R
+
+Dharun.R
 
 Arun Ritthik.K.K
 
